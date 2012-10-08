@@ -6,5 +6,7 @@
 		echo $a;
 	}
 	
+	tgtjelkfjds
+	
 	myTest();
 ?>
